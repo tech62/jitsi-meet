@@ -519,6 +519,13 @@
     "sectionList": {
         "pullToRefresh": "Tirer pour recharger"
     },
+    
+      "security": {
+        "about": "vous pouvez ajouter un passcode. Les participants devront fournir ce passcode avant d'être autorisé à rejoindre la conférence.",
+        "insecureRoomNameWarning": "La nom de la salle est non sécurisé. Des participants non désirés pourront se joindre à votre conférence, ajoutez un mot de passe à cette salle à minima",
+        "securityOptions": "Options de sécurité"
+    },
+    
     "settings": {
         "calendar": {
             "about": "L'intégration de {{appName}} avec votre calendrier permet d’accéder de manière sécurisée aux événement à venir.",
